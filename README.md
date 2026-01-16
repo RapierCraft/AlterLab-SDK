@@ -30,11 +30,11 @@
 
 ## Why AlterLab?
 
-- **🚀 3 Lines of Code** — Scrape any website in seconds
-- **🛡️ Anti-Bot Bypass** — Automatic escalation through 5 tiers (curl → HTTP → stealth → browser → captcha)
-- **⚡ Blazing Fast** — Average response time under 2 seconds for static sites
-- **💰 Pay-As-You-Go** — No subscriptions. **$1 = 5,000 scrapes**. Credits never expire.
-- **🔧 Zero Config** — Works out of the box. No proxies to manage.
+- **3 Lines of Code** — Scrape any website in seconds
+- **Anti-Bot Bypass** — Automatic escalation through 5 tiers (curl → HTTP → stealth → browser → captcha)
+- **Blazing Fast** — Average response time under 2 seconds for static sites
+- **Pay-As-You-Go** — No subscriptions. **$1 = 5,000 scrapes**. Credits never expire.
+- **Zero Config** — Works out of the box. No proxies to manage.
 
 ## Quick Install
 
@@ -78,16 +78,16 @@ console.log(`Cost: $${result.billing.costDollars}`);  // $0.0002
 
 | Feature | Description |
 |---------|-------------|
-| **🎯 Intelligent Scraping** | Auto-selects the best approach for each site |
-| **🌐 JavaScript Rendering** | Full Playwright browser for SPAs and dynamic content |
-| **📊 Structured Extraction** | JSON Schema, AI prompts, or pre-built profiles (product, article, etc.) |
-| **🔐 BYOP Support** | Bring Your Own Proxy for 20% discount |
-| **💸 Cost Controls** | Set max tier, budget limits, prefer cost vs speed |
-| **⚡ Async Support** | Native async/await for concurrent scraping |
-| **📝 Full TypeScript** | Complete type definitions for excellent DX |
-| **🔄 Auto Retries** | Exponential backoff with configurable retry logic |
-| **📸 Screenshots & PDFs** | Capture visual snapshots of any page |
-| **🔍 OCR** | Extract text from images |
+| **Intelligent Scraping** | Auto-selects the best approach for each site |
+| **JavaScript Rendering** | Full Playwright browser for SPAs and dynamic content |
+| **Structured Extraction** | JSON Schema, AI prompts, or pre-built profiles (product, article, etc.) |
+| **BYOP Support** | Bring Your Own Proxy for 20% discount |
+| **Cost Controls** | Set max tier, budget limits, prefer cost vs speed |
+| **Async Support** | Native async/await for concurrent scraping |
+| **Full TypeScript** | Complete type definitions for excellent DX |
+| **Auto Retries** | Exponential backoff with configurable retry logic |
+| **Screenshots & PDFs** | Capture visual snapshots of any page |
+| **OCR** | Extract text from images |
 
 ## Pricing
 
@@ -104,7 +104,7 @@ console.log(`Cost: $${result.billing.costDollars}`);  // $0.0002
 **No subscriptions. No monthly fees. Credits never expire.**
 
 <details>
-<summary><strong>🎁 Free Tier</strong></summary>
+<summary><strong>Free Tier</strong></summary>
 
 Get **5,000 free scrapes** when you sign up — no credit card required.
 
@@ -224,12 +224,12 @@ if result.billing.byop_applied:
 
 ## Support
 
-- 📚 **Documentation**: [alterlab.io/docs](https://alterlab.io/docs)
-- 🎮 **Playground**: [alterlab.io/playground](https://alterlab.io/playground)
-- 📊 **API Status**: [status.alterlab.io](https://status.alterlab.io)
-- 💬 **Discord**: [Join our community](https://discord.gg/alterlab)
-- 📧 **Email**: support@alterlab.io
-- 🐛 **Issues**: [GitHub Issues](https://github.com/RapierCraft/AlterLab-SDK/issues)
+- **Documentation**: [alterlab.io/docs](https://alterlab.io/docs)
+- **Playground**: [alterlab.io/playground](https://alterlab.io/playground)
+- **API Status**: [status.alterlab.io](https://status.alterlab.io)
+- **Discord**: [Join our community](https://discord.gg/alterlab)
+- **Email**: support@alterlab.io
+- **Issues**: [GitHub Issues](https://github.com/RapierCraft/AlterLab-SDK/issues)
 
 ## Contributing
 
@@ -249,5 +249,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ by the AlterLab team</sub>
+  <sub>Built by the AlterLab team</sub>
 </p>
