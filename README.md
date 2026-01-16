@@ -28,13 +28,23 @@
 
 ---
 
+## What is AlterLab?
+
+AlterLab is a web scraping API that handles the hard parts for you. Instead of managing proxies, fighting CAPTCHAs, and reverse-engineering anti-bot systems, you make one API call and get clean data back.
+
+Under the hood, AlterLab maintains a fleet of residential proxies, headless browsers, and machine learning models trained to bypass protection systems like Cloudflare, DataDome, and PerimeterX. When a simple HTTP request fails, the system automatically escalates through increasingly sophisticated methods until it succeeds—and you only pay for what actually works.
+
+The result: reliable data extraction from sites that block traditional scrapers, without the infrastructure overhead or the cat-and-mouse game of maintaining your own anti-detection stack.
+
 ## Why AlterLab?
 
-- **3 Lines of Code** — Scrape any website in seconds
-- **Anti-Bot Bypass** — Automatic escalation through 5 tiers (curl → HTTP → stealth → browser → captcha)
-- **Blazing Fast** — Average response time under 2 seconds for static sites
-- **Pay-As-You-Go** — No subscriptions. **$1 = 5,000 scrapes**. Credits never expire.
-- **Zero Config** — Works out of the box. No proxies to manage.
+| | |
+|---|---|
+| **Simple Integration** | Three lines of code. No proxy configuration, no browser setup, no CAPTCHA solving logic. Just a URL in, structured data out. |
+| **Handles Anti-Bot Systems** | Automatic escalation through 5 tiers: fast HTTP requests for simple sites, full browser automation with CAPTCHA solving for protected ones. |
+| **Predictable Pricing** | Pay-as-you-go with no monthly fees. $1 gets you 5,000 simple scrapes or 50 CAPTCHA solves. Credits never expire. |
+| **Production Ready** | Battle-tested infrastructure serving millions of requests. 99.9% uptime SLA with real-time status monitoring. |
+| **Full Transparency** | Every response includes the tier used and exact cost. No surprises on your bill. |
 
 ## Quick Install
 
